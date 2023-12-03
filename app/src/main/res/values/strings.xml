@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PR18_GlazirinNG</string>
+    <string name="add_record">Добавить запись</string>
+    <string name="delete_record">Удалить запись</string>
+    <string name="box">Корзина</string>
+</resources>
